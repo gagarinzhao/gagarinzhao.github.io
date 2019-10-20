@@ -19,4 +19,7 @@ Cool!!
 
 I often use [google](http://www.google.com) to do data science.
 
+You can learn all about me at [here](about.html)
+
 ![](IMG_6359.jpeg)
+My name is sully and this is my soft bed
