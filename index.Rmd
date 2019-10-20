@@ -1,7 +1,10 @@
 ---
 title: "It's me!"
 author: "Gagarin Zhao"
-output: html_document
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
