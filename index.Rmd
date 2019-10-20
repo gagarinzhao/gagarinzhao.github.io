@@ -1,7 +1,6 @@
 ---
 title: "My Cool Website"
 author: "Gagarin Zhao"
-date: "10/20/2019"
 output: html_document
 ---
 
@@ -10,3 +9,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Cool!!
+
+![](https://media1.tenor.com/images/45e529c116a1758fd09bdb27e2172eca/tenor.gif?itemid=11674749)
+
+## Let's add some link
+
+I often use [google](google.com) to do data science.
+
+![](IMG_6359.jpeg)
