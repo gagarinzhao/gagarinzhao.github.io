@@ -14,6 +14,6 @@ Cool!!
 
 ## Let's add some link
 
-I often use [google](google.com) to do data science.
+I often use [google](http://www.google.com) to do data science.
 
 ![](IMG_6359.jpeg)
