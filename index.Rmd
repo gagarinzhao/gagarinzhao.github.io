@@ -11,9 +11,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<head>
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head>
+<link rel="shortcut icon" href="favicon.ico">
 
 
 Cool!!!
