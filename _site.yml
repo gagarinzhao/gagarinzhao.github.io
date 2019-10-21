@@ -16,4 +16,4 @@ navbar:
 output:
   html_document:
     theme: simplex
-favicon: "IMG_6370.jpg"
+favicon: IMG_6370.jpg
