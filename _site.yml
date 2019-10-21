@@ -1,6 +1,6 @@
 name: "Yay internet!"
 output_dir: "."
-favicon: IMG_6370.jpeg
+favicon: favicon.ico
 navbar:
   title: "Home"
   right:
