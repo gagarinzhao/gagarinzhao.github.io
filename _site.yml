@@ -1,5 +1,6 @@
 name: "Yay internet!"
 output_dir: "."
+favicon: IMG_6370.jpg
 navbar:
   title: "Home"
   right:
@@ -16,4 +17,3 @@ navbar:
 output:
   html_document:
     theme: simplex
-favicon: IMG_6370.jpg
