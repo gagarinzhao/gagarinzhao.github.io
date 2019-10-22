@@ -6,6 +6,12 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - text: "Examples"
+      menu:
+        - text: "Plotly"
+          href: plotly.html
+        - text: "Dashboard"
+          href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<gz2281@cumc.columbia.edu>
     - icon: fa-github fa-lg
@@ -14,8 +20,7 @@ navbar:
       rhref: http://linkedin.com/in/gagarinzhao
     - icon: fa-twitter fa-lg
       href: http://twitter.com/gagarinzhao
-    - text: "Plotly"
-      href: plotly.html
+
 output:
   html_document:
     theme: simplex
