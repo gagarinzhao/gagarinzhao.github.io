@@ -3,6 +3,7 @@ output_dir: "."
 favicon: favicon.ico
 navbar:
   title: "Home"
+  favicon: fa-coins fa-lg
   right:
     - text: "About"
       href: about.html
