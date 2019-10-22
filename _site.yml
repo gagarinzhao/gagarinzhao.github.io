@@ -1,7 +1,8 @@
 name: "Yay internet!"
 output_dir: "."
-favicon: fa-coins fa-lg
+
 navbar:
+  favicon: fa-coins fa-lg
   title: "Home"
   right:
     - text: "About"
