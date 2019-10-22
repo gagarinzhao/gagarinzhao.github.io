@@ -1,14 +1,13 @@
 name: "Yay internet!"
 output_dir: "."
-favicon: favicon.ico
+favicon: fa-coins fa-lg
 navbar:
   title: "Home"
-  favicon: fa-coins fa-lg
   right:
     - text: "About"
       href: about.html
     - text: "Examples"
-      menu:
+    - menu:
         - text: "Plotly"
           href: plotly.html
         - text: "Dashboard"
@@ -21,7 +20,6 @@ navbar:
       rhref: http://linkedin.com/in/gagarinzhao
     - icon: fa-twitter fa-lg
       href: http://twitter.com/gagarinzhao
-
 output:
   html_document:
     theme: simplex
