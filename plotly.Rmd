@@ -1,7 +1,6 @@
 ---
 title: "Plotly"
 author: "Gagarin Zhao"
-date: "10/23/2019"
 output: html_document
 ---
 
@@ -14,6 +13,8 @@ library(p8105.datasets)
 library(plotly)
 ```
 
+
+## Let's make some plots
 
 ```{r}
 set.seed(1)

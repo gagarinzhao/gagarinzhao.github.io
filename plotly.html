@@ -12,7 +12,6 @@
 
 <meta name="author" content="Gagarin Zhao" />
 
-<meta name="date" content="2019-10-23" />
 
 <title>Plotly</title>
 
@@ -319,7 +318,6 @@ $(document).ready(function () {
 
 <h1 class="title toc-ignore">Plotly</h1>
 <h4 class="author">Gagarin Zhao</h4>
-<h4 class="date">10/23/2019</h4>
 
 </div>
 
@@ -349,6 +347,8 @@ library(plotly)</code></pre>
 <pre><code>## The following object is masked from &#39;package:graphics&#39;:
 ## 
 ##     layout</code></pre>
+<div id="lets-make-some-plots" class="section level2">
+<h2>Let’s make some plots</h2>
 <pre class="r"><code>set.seed(1)
 
 data(nyc_airbnb)
@@ -363,6 +363,7 @@ nyc_airbnb =
     room_type == &quot;Entire home/apt&quot;,
     price %in% 100:500)  %&gt;% 
   sample_n(5000)</code></pre>
+</div>
 
 
 
