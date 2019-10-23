@@ -10,4 +10,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 My name is Gagarin and I am 5'8". I was born as a baby.
 
-View my CV [here](Gaga_CV_oct19.pdf)!
+View my CV [here](Gaga_CV_oct19_github.pdf)!
