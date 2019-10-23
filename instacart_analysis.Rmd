@@ -5,6 +5,7 @@ output:
     orientation: columns
     vertical_layout: fill
     theme: simplex
+    code_folding: hide
 ---
 
 ```{r setup, include=FALSE}
@@ -12,7 +13,6 @@ output:
 library(tidyverse)
 library(viridis)
 library(p8105.datasets)
-
 library(plotly)
 library(flexdashboard)
 ```
@@ -32,16 +32,7 @@ Column {data-width=350}
 ### Chart B
 
 ```{r}
-common_neighborhoods =
-  nyc_airbnb %>% 
-  count(neighbourhood, sort = TRUE) %>% 
-  top_n(8) %>% 
-  select(neighbourhood)
 
-inner_join(nyc_airbnb, common_neighborhoods, by = "neighbourhood") %>% 
-  mutate(neighbourhood = fct_reorder(neighbourhood, price)) %>% 
-  plot_ly(y = ~price, color = ~neighbourhood, type = "box",
-          colors = "Set2")
 ```
 
 ### Chart C
