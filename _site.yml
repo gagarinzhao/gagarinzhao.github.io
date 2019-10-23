@@ -5,12 +5,8 @@ navbar:
   right:
     - text: "About"
       href: about.html
-    - text: "Examples"
+    - text: "Sample Analyses"
       menu:
-        - text: "Plotly"
-          href: plotly.html
-        - text: "Dashboard"
-          href: dashboard.html
         - text: "Instacart Analysis"
           href: instacart.html
     - icon: fa-envelope fa-lg
