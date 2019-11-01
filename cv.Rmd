@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - MPH, Department of Sociomedical Sciences (2020)
 - Certificate in Applied Biostatistics
-- Propective Thesis Topic: <i>Multivariate Regression Analysis of Stigma in People Living with HIV</i>
+- Propective Thesis Topic: <i>Multivariable Regression Analysis of Stigma in People Living with HIV</i>
 - Student leader in:
   - Students for a National Health Program ([SNaHP](http://student.pnhp.org/about/))
   - Women 4 Women
