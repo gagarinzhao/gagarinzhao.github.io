@@ -25,25 +25,7 @@ Column {data-width=650}
 -----------------------------------------------------------------------
 
 ### Chart A
-Boxplot of reordered items vs. non-reordered items, and their add to cart order
-```{r}
-
-
-```
-
-Column {data-width=350}
------------------------------------------------------------------------
-
-### Chart B
-Scatterplot of order number and days since last order
-```{r}
-
-```
-
-### Chart C
-
 Spaghetti plot of different aisles and their add to cart order on different days of the week
-
 ```{r}
 chart3 =
   instacart %>%
@@ -56,5 +38,26 @@ chart3 =
   pivot_wider(names_from = Day,
               values_from = mean_atco) %>% 
   plot_ly(x = ~Day, y = ~mean_atco, type = 'scatter', mode = 'lines')
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+Scatterplot of order number and days since last order
+```{r}
+chart2 =
+  instacart %>% 
+  group_by(days_since_prior_order, order_number) %>% 
+  plot_ly(
+    x = ~order_number, y = ~days_since_prior_order, type = "scatter", mode = "markers",
+    color = ~department, text = ~text_label, alpha = 0.5)
+```
+
+### Chart C
+Boxplot of reordered items vs. non-reordered items, and their add to cart order
+```{r}
+
 ```
 
