@@ -60,6 +60,8 @@ knitr::opts_chunk$set(echo = TRUE)
 View a PDF version of my CV [here](Gaga_CV_oct19_github.pdf).
 
 <br />
+<br />
+<br />
 <hr />
 <p style="text-align: center;"><span style="color: #808080;">Copyright &copy; 2019 Gagarin Zhao</p>
 
