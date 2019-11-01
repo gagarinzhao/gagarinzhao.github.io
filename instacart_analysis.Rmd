@@ -1,7 +1,8 @@
 ---
 title: "Instacart Analysis"
 navbar:
-  title: "Home"
+- text: "Home"
+  href: index.html
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -20,11 +21,11 @@ library(flexdashboard)
 
 Here I analyze the publicly available data for Instacart.
 
-Column {data-width=500}
+Column {data-width=450}
 -----------------------------------------------------------------------
 
-### Chart A
-Spaghetti plot of different aisles and their add to cart order on different days of the week
+### Chart A: Aisles and add to cart order on days of the week
+
 ```{r chart 1}
 instacart %>%
   filter(aisle == c("energy sports drinks", "hot dogs bacon sausage", "yogurt", "coffee", "eggs")) %>% 
@@ -37,11 +38,11 @@ instacart %>%
          yaxis = list(title = 'Mean Add to Cart Order'))
 ```
 
-Column {data-width=500}
+Column {data-width=450}
 -----------------------------------------------------------------------
 
-### Chart B
-Scatterplot of n and hour of day they were ordered at within produce department, with different colors for different aisles
+### Chart B: Frequency of orders at hours of day within produce department
+
 ```{r chart 2}
 instacart %>% 
   filter(department == "produce") %>%
@@ -58,8 +59,8 @@ instacart %>%
                       zeroline = TRUE))
 ```
 
-### Chart C
-Boxplot of items within top 10 departments comparing their add to cart order
+### Chart C: Distribution of add to cart rrder within top 10 departments
+
 ```{r chart 3}
 top_dep =
   instacart %>% 
