@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 author: "Gagarin Zhao"
 output:
   html_document:
@@ -13,9 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <hr></hr>
 ### Education
-<b>Columbia University Mailman School of Public Health (2020)</b>
+<b>Columbia University Mailman School of Public Health</b>
 
-- MPH, Department of Sociomedical Sciences
+- MPH, Department of Sociomedical Sciences (2020)
 - Certificate in Applied Biostatistics
 - Propective Thesis Topic: <i>Multivariate Regression Analysis of Stigma in People Living with HIV</i>
 - Student leader in:
@@ -23,9 +23,9 @@ knitr::opts_chunk$set(echo = TRUE)
   - Women 4 Women
 - Relevant coursework: Data Science I, Analysis of Categorical Data, Applied Regression I
 
-<b>New York University (2017)</b>
+<b>New York University</b>
 
-- BA, Psychology
+- BA, Psychology (2017)
 - Minors: Anthropology, Child & Adolescent Mental Health Studies
 
 
