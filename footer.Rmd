@@ -1,4 +1,4 @@
-&nbsp;
+<br />
 <hr />
 <p style="text-align: center;"><span style="color: #808080;">Copyright &copy; 2019 Gagarin Zhao</p>
 
@@ -10,5 +10,4 @@
     <a href="https://github.com/gz2281/" class="fa fa-github"></a>
     <a href="mailto:<gz2281@cumc.columbia.edu>" class="fa fa-envelope"></a>
 </p>
-
-&nbsp;
+<br />

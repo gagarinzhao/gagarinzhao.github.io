@@ -1,7 +1,9 @@
 ---
 title: "Gagarin Zhao"
-output: 
-  html_document
+output:
+  html_document:
+    includes:
+      after_body: footer.html
 ---
 
 ```{r setup, include=FALSE}
