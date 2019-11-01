@@ -1,5 +1,7 @@
 ---
 title: "Instacart Analysis"
+navbar:
+  title: "Home"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -41,7 +43,7 @@ Column {data-width=350}
 -----------------------------------------------------------------------
 
 ### Chart B
-Scatterplot of order number and days since last order
+Scatterplot of order number and days since last order, with different colors for different departments
 ```{r}
 instacart %>% 
   group_by(days_since_prior_order, order_number) %>% 
@@ -53,6 +55,9 @@ instacart %>%
 ### Chart C
 Boxplot of reordered items vs. non-reordered items, and their add to cart order
 ```{r}
-
+instacart %>% 
+  group_by(add_to_cart_order, reordered) %>% 
+  plot_ly(y = ~add_to_cart_order, color = ~reordered, type = "box",
+          colors = "Set2")
 ```
 
