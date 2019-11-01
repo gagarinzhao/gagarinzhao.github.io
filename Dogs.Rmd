@@ -1,19 +1,19 @@
 ---
 title: "The Dogs in my Life"
-output:
-  html_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](IMG_6359.jpeg)
+![](IMG_6359.jpeg) 
 My name is Sully and this is my soft bed.
+
 <br></br>
 
 ![](IMG_7848.jpg)
-My name is Laika and I love sticks.
+My name is Laika and I love sticks!
 
 <br />
 <hr />
