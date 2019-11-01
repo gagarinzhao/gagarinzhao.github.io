@@ -16,8 +16,6 @@ Welcome to my brand spankin' new website. I'm still working on it so please be k
 
 I am a Vancouverite named after the first man in [first man in space](https://en.wikipedia.org/wiki/Yuri_Gagarin). I received my BA from NYU in Psychology with Minors in Anthropology and Child & Adolescent Mental Health Studies ([CAMS](https://med.nyu.edu/departments-institutes/child-adolescent-psychiatry/education/child-adolescent-mental-health-studies-minor-undergraduates)). I am interested in social determinants of health and research data analysis, and now, data science!
 
-In my spare time I like to cook and write songs.
-
 <br />
 <br />
 <br />
