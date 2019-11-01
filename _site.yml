@@ -20,10 +20,5 @@ navbar:
       href: http://twitter.com/gagarinzhao
 output:
   html_document:
-    includes:
-      after_body: footer.html
     theme: sandstone
-    
-    
-    
     
