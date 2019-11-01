@@ -31,6 +31,22 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <hr></hr>
 
+### Select Projects
+
+<b>Multilinear Regression Analysis Blood Pressure using NHANES Data</b>
+
+Gagarin Zhao, Grace Mackson
+
+<i>Projected completion date: November 2019</i>
+
+<b> Project Sanguine </b>
+
+Alex Orak and Rakesh Gurrala of Tulane University, Gagarin Zhao
+
+<i>Developing a mobile blood-pressure monitoring device that uses optics</i>
+
+<hr></hr>
+
 ### Professional Experience
 <b>New York City Department of Health and Mental Hygiene (June 2019 - Present)</b>
 
@@ -54,6 +70,21 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Languages
 - English, Mandarin
 - SAS, R, SPSS
+
+<hr></hr>
+
+### Publications
+[9/19/19 - Place of Residence and Location of Services](http://www.nyhiv.org/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf)
+
+<hr></hr>
+
+### Select Events Organized
+
+- Health Advocacy Teach-in with [Dr. Marc Manseau](https://med.nyu.edu/faculty/marc-w-manseau) and Winn Periyasamy, 2019
+- New York Health Act 101 with Dr. Mary O'Brien, 2019
+- Single-Payer 101 with [Dr. Danny Lugassy](https://nyulangone.org/doctors/1073658035/daniel-m-lugassy), 2019
+- Policy and Advocacy Practicum Panel, 2019
+- International Woman's Day Celebration, 2019
 
 <hr></hr>
 
