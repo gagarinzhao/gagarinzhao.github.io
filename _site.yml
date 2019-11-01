@@ -3,9 +3,9 @@ navbar:
   title: "Home"
   right:
     - text: "CV"
-      href: about.html
+      href: cv.html
     - text: "Dogs"
-      href: Dogs.html
+      href: dogs.html
     - text: "Sample Analyses"
       menu:
         - text: "Instacart Analysis"
