@@ -22,6 +22,6 @@ My name is sully and this is my soft bed.
 ![](IMG_7848.jpg)
 My name is Laika and I love sticks.
 
-## My entire life story
+### My entire life story
 
 This portio of the website is under construction.
