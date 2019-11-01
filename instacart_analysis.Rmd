@@ -59,7 +59,7 @@ instacart %>%
                       zeroline = TRUE))
 ```
 
-### Chart C: Distribution of add to cart rrder within top 10 departments
+### Chart C: Distribution of add to cart order within top 10 departments
 
 ```{r chart 3}
 top_dep =

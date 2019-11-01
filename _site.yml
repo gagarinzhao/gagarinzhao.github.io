@@ -3,8 +3,10 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About Me"
+    - text: "Experience"
       href: about.html
+    - text: "Dogs"
+      href: dogs.html
     - text: "Sample Analyses"
       menu:
         - text: "Instacart Analysis"

@@ -10,18 +10,17 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+##### MPH Candidate, Columbia Mailman School of Public Health
+##### Department of Sociomedical Sciences, Certificate in Applied Biostatistics
+<hr></hr>
+<img style="float: right;" src="me.JPG" alt="me" width="250"/>
 
-![](https://media1.tenor.com/images/45e529c116a1758fd09bdb27e2172eca/tenor.gif?itemid=11674749)
+Welcome to my brand spankin' new website. I'm still working on it so please be kind.
+
+I am a Vancouverite named after the first man in [first man in space](https://en.wikipedia.org/wiki/Yuri_Gagarin). I received my BA from NYU in Psychology with Minors in Anthropology and Child & Adolescent Mental Health Studies ([CAMS](https://med.nyu.edu/departments-institutes/child-adolescent-psychiatry/education/child-adolescent-mental-health-studies-minor-undergraduates)). I am interested in social determinants of health and research data analysis, and now, data science!
+
+In my spare time I like to cook and write songs.
 
 
-### The dogs in my life
-![](IMG_6359.jpeg)
-My name is sully and this is my soft bed.
-<br></br>
 
-![](IMG_7848.jpg)
-My name is Laika and I love sticks.
 
-### My entire life story
-
-This portio of the website is under construction.
