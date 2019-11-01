@@ -1,6 +1,7 @@
 ---
 title: "Experience"
 author: "Gagarin Zhao"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
