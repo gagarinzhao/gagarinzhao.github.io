@@ -7,7 +7,7 @@ output:
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
-    theme: simplex
+    theme: sandstone
 ---
 
 ```{r setup, include=FALSE}
