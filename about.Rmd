@@ -2,9 +2,7 @@
 title: "CV"
 author: "Gagarin Zhao"
 output:
-  html_document:
-    includes:
-      after_body: footer.html
+  html_document
 ---
 
 ```{r setup, include=FALSE}

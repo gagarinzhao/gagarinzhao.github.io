@@ -1,9 +1,7 @@
 ---
 title: "The Dogs in my Life"
 output:
-  html_document:
-    includes:
-      after_body: footer.html
+  html_document
 ---
 
 ```{r setup, include=FALSE}
