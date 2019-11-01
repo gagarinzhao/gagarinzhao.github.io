@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ![](IMG_6359.jpeg)
-My name is sully and this is my soft bed.
+My name is Sully and this is my soft bed.
 <br></br>
 
 ![](IMG_7848.jpg)
