@@ -5,6 +5,8 @@ navbar:
     - text: "CV"
       href: cv.html
     - text: "Sample Analyses"
+        - text: "Dogs"
+      href: dogs.html
       menu:
         - text: "Instacart Analysis"
           href: instacart_analysis.html
