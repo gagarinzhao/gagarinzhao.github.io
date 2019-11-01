@@ -11,12 +11,10 @@ output:
 ```{r setup, include=FALSE}
 
 library(tidyverse)
-library(viridis)
 library(p8105.datasets)
 data("instacart")
 library(plotly)
 library(flexdashboard)
-theme_set(theme_bw() + theme(legend.position = "bottom"))
 ```
 
 Here I analyze the publicly available data for Instacart.
@@ -27,8 +25,7 @@ Column {data-width=650}
 ### Chart A
 Spaghetti plot of different aisles and their add to cart order on different days of the week
 ```{r}
-chart3 =
-  instacart %>%
+instacart %>%
   filter(aisle == c("energy sports drinks", "hot dogs bacon sausage", "yogurt", "coffee", "eggs")) %>% 
   mutate(Day = order_dow + 1) %>% 
   mutate(Day = lubridate::wday(Day, label = TRUE)) %>% 
@@ -38,7 +35,6 @@ chart3 =
   pivot_wider(names_from = Day,
               values_from = mean_atco) %>% 
   plot_ly(x = ~Day, y = ~mean_atco, type = 'scatter', mode = 'lines')
-
 ```
 
 Column {data-width=350}
@@ -47,8 +43,7 @@ Column {data-width=350}
 ### Chart B
 Scatterplot of order number and days since last order
 ```{r}
-chart2 =
-  instacart %>% 
+instacart %>% 
   group_by(days_since_prior_order, order_number) %>% 
   plot_ly(
     x = ~order_number, y = ~days_since_prior_order, type = "scatter", mode = "markers",
