@@ -4,6 +4,8 @@ navbar:
   right:
     - text: "CV"
       href: cv.html
+    - text: "Dogs"
+      href: dogs.html
     - text: "Sample Analyses"
       menu:
         - text: "Instacart Analysis"
