@@ -2,10 +2,10 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "Experience"
+    - text: "CV"
       href: about.html
     - text: "Dogs"
-      href: dogs.html
+      href: Dogs.html
     - text: "Sample Analyses"
       menu:
         - text: "Instacart Analysis"
