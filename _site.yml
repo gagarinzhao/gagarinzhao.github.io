@@ -19,5 +19,4 @@ navbar:
       href: http://twitter.com/gagarinzhao
 output:
   html_document:
-    theme: simplex
-    highlight: tango
+    theme: sandstone
