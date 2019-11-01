@@ -7,13 +7,12 @@ output:
     orientation: columns
     vertical_layout: fill
     theme: simplex
-    code_folding: hide
 ---
 
 ```{r setup, include=FALSE}
-
 library(tidyverse)
 library(p8105.datasets)
+library(viridis)
 data("instacart")
 library(plotly)
 library(flexdashboard)
@@ -21,12 +20,12 @@ library(flexdashboard)
 
 Here I analyze the publicly available data for Instacart.
 
-Column {data-width=650}
+Column {data-width=500}
 -----------------------------------------------------------------------
 
 ### Chart A
 Spaghetti plot of different aisles and their add to cart order on different days of the week
-```{r}
+```{r chart 1}
 instacart %>%
   filter(aisle == c("energy sports drinks", "hot dogs bacon sausage", "yogurt", "coffee", "eggs")) %>% 
   mutate(Day = order_dow + 1) %>% 
@@ -34,30 +33,49 @@ instacart %>%
   group_by(aisle, Day) %>% 
   summarize(mean_atco = 
               mean(add_to_cart_order)) %>% 
-  pivot_wider(names_from = Day,
-              values_from = mean_atco) %>% 
-  plot_ly(x = ~Day, y = ~mean_atco, type = 'scatter', mode = 'lines')
+  plot_ly(x = ~Day, y = ~mean_atco, color = ~aisle, type = 'scatter', mode = 'lines') %>%  layout(title = '5 Cool Items and Average Add to Cart Order on Days of the Week',
+         yaxis = list(title = 'Mean Add to Cart Order'))
 ```
 
-Column {data-width=350}
+Column {data-width=500}
 -----------------------------------------------------------------------
 
 ### Chart B
-Scatterplot of order number and days since last order, with different colors for different departments
-```{r}
+Scatterplot of n and hour of day they were ordered at within produce department, with different colors for different aisles
+```{r chart 2}
 instacart %>% 
-  group_by(days_since_prior_order, order_number) %>% 
+  filter(department == "produce") %>%
+  group_by(order_hour_of_day, aisle) %>% 
+  summarize(n = n()) %>% 
   plot_ly(
-    x = ~order_number, y = ~days_since_prior_order, type = "scatter", mode = "markers",
-    color = ~department, text = ~text_label, alpha = 0.5)
+    x = ~order_hour_of_day, y = ~n, type = "bar",
+    color = ~aisle) %>% 
+  layout(title = 'Frequency of Ordered Items within Produce Aisles',
+         xaxis = list(title = 'Hour of Day Ordered (0-24h)',
+                      zeroline = TRUE,
+                      range = c(0, 24)),
+         yaxis = list(title = 'N',
+                      zeroline = TRUE))
 ```
 
 ### Chart C
-Boxplot of reordered items vs. non-reordered items, and their add to cart order
-```{r}
-instacart %>% 
-  group_by(add_to_cart_order, reordered) %>% 
-  plot_ly(y = ~add_to_cart_order, color = ~reordered, type = "box",
-          colors = "Set2")
+Boxplot of items within top 10 departments comparing their add to cart order
+```{r chart 3}
+top_dep =
+  instacart %>% 
+  count(department, sort = TRUE) %>% 
+  top_n(10) %>% 
+  select(department)
+
+inner_join(instacart, top_dep, by = "department") %>% 
+  mutate(department = fct_reorder(department, add_to_cart_order)) %>% 
+  sample_n(5000) %>% 
+  plot_ly(y = ~add_to_cart_order, color = ~department, type = "box",
+          colors = "Set1") %>% 
+  layout(title = 'Add to Cart Order within Top 10 Departments',
+         xaxis = list(title = 'Department'),
+         yaxis = list(title = 'Add to Cart Order',
+                      zeroline = TRUE,
+                      range = c(60, 0)))
 ```
 

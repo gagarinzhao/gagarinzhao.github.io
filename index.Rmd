@@ -1,6 +1,5 @@
 ---
-title: "It's me!"
-author: "Gagarin Zhao"
+title: "Gagarin Zhao"
 output:
   html_document:
     toc: true
