@@ -11,9 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-
-Cool!!!
-
 ![](https://media1.tenor.com/images/45e529c116a1758fd09bdb27e2172eca/tenor.gif?itemid=11674749)
 
 
@@ -24,3 +21,7 @@ My name is sully and this is my soft bed.
 
 ![](IMG_7848.jpg)
 My name is Laika and I love sticks.
+
+## My entire life story
+
+This portio of the website is under construction.
