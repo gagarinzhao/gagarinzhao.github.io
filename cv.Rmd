@@ -41,9 +41,11 @@ Gagarin Zhao, Grace Mackson
 
 <b> Project Sanguine </b>
 
-Alex Orak and Rakesh Gurrala of Tulane University, Gagarin Zhao
+Alex Orak and Rakesh Gurrala of Tulane Medical School/Tulane School of Business, Gagarin Zhao
 
 <i>Developing a mobile blood-pressure monitoring device that uses optics</i>
+
+<i>As a part of the Tulane Novel Tech Challenge 2019</i>
 
 <hr></hr>
 
@@ -93,6 +95,8 @@ View a PDF version of my CV [here](Gaga_CV_oct19_github.pdf).
 <br />
 <br />
 <br />
+<br />
+<br />
 <hr />
 <p style="text-align: center;"><span style="color: #808080;">Copyright &copy; 2019 Gagarin Zhao</p>
 
@@ -104,4 +108,3 @@ View a PDF version of my CV [here](Gaga_CV_oct19_github.pdf).
     <a href="https://github.com/gagarinzhao/" class="fa fa-github"></a>
     <a href="mailto:<gz2281@cumc.columbia.edu>" class="fa fa-envelope"></a>
 </p>
-<br />
