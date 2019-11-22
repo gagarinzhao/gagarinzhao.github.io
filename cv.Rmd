@@ -33,6 +33,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Select Projects
 
+<b>[Solo or Together? A Billboard Hot 100 Analysis of whether bands or solo careers are more successful](https://gagarinzhao.github.io/billboard_band_breakups/)</b>
+
+Meeraj Kothari, Madeline Cannon, Crystal Li, Gagarin Zhao, 
+Nihan Gencerliler
+
+<i>Projected completion date: December 2019</i>
+
 <b>Multilinear Regression Analysis Blood Pressure using NHANES Data</b>
 
 Gagarin Zhao, Grace Mackson
