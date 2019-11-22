@@ -19,7 +19,7 @@ navbar:
       href: http://twitter.com/gagarinzhao
 output:
   html_document:
-    theme: sandstone
+    theme: lumen
     include:
       after_body: footer.html
     css: styles.css
