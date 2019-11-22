@@ -13,3 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 <img style="float: right;" src="me.JPG" alt="me" width="250"/>
 <body>
 I am a Vancouverite named after the first man in [first man in space](https://en.wikipedia.org/wiki/Yuri_Gagarin). I received my BA from NYU in Psychology with Minors in Anthropology and Child & Adolescent Mental Health Studies ([CAMS](https://med.nyu.edu/departments-institutes/child-adolescent-psychiatry/education/child-adolescent-mental-health-studies-minor-undergraduates)). I am interested in social determinants of health and research data analysis, and now, data science!
+</body>
