@@ -38,13 +38,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Meeraj Kothari, Madeline Cannon, Crystal Li, Gagarin Zhao, 
 Nihan Gencerliler
 
-<i>Projected completion date: December 2019</i>
-
-<b>Multilinear Regression Analysis Blood Pressure using NHANES Data</b>
-
-Gagarin Zhao, Grace Mackson
-
-<i>Projected completion date: November 2019</i>
+<i>Completion date: December 2019</i>
 
 <b> Project Sanguine </b>
 
