@@ -1,0 +1,138 @@
+---
+title: "Billboard Hot 100: Gender and Genre Analysis"
+output: html_document
+---
+
+```{r head, include=FALSE}
+library(tidyverse)
+library(plotly)
+library(viridis)
+library(flexdashboard)
+library(gganimate)
+library(magick)
+library(gifski)
+library(zoo)
+library(patchwork)
+
+bands = read_csv("./Data/bands.csv") %>% 
+  mutate(week_id = as.Date(week_id, "%m/%d/%Y"),
+         genre = as_factor(genre), 
+         gender = if_else(gender %in% NA, "Coed", gender),
+         gender = as_factor(gender)) %>%
+  filter(performer != "Spice Girls" & performer != "Oasis")
+
+solos = read_csv("./Data/solo_artists.csv") %>% 
+  mutate(week_id = as.Date(week_id, "%m/%d/%Y"),
+         genre = as_factor(genre), 
+         gender = as_factor(gender),
+         parent_group = as_factor(parent_group))
+```
+
+<br>
+
+### 1950s-2019 Number of Top 100 Hits by Gender and Genre
+
+<br>
+
+```{r genres, echo = FALSE, warning = FALSE, message = FALSE}
+p1 =
+  bands %>%
+  group_by(gender, genre, week_id) %>% 
+  summarize(n = n()) %>% 
+  ggplot(aes(x = reorder(genre, n))) +
+           geom_bar(aes(fill = gender)) +
+  scale_fill_viridis(discrete = TRUE) +
+  coord_cartesian(clip = 'off') + 
+  theme(legend.position = "none") +
+  theme_minimal() +
+  labs(title = "Bands", x = "Genre", y = "Number of Hits 1950s-2019")
+
+p2 =
+  solos %>%
+  group_by(gender, genre, week_id) %>% 
+  summarize(n = n()) %>% 
+  ggplot(aes(x = reorder(genre, n))) +
+           geom_bar(aes(fill = gender)) +
+  scale_fill_viridis(discrete = TRUE) +
+  coord_cartesian(clip = 'off') + 
+  theme(legend.position = "none") +
+  theme_minimal() +
+  labs(title = "Solos", x = "Genre", y = "Number of Hits 1950s-2019")
+p1 + p2
+```
+
+<br>
+
+### Gender and average weekly positions by bands and solo artists
+
+<br>
+
+```{r band solo gender, echo = FALSE, warning = FALSE, message = FALSE}
+band_gender =
+  bands %>%
+  arrange(week_id) %>% 
+  mutate(year = substring(week_id, 1, 4)) %>% 
+  mutate(na.locf.default(year)) %>% 
+  na.omit() %>% 
+  mutate(year = as.numeric(year)) %>% 
+  select(year, gender, week_position) %>%
+  group_by(year, gender) %>% 
+  mutate(mean_rank = mean(week_position)) %>% 
+  select(-week_position) %>% 
+  distinct() %>% 
+  ggplot(aes(x = year, y = mean_rank, color = gender)) +
+  labs(color = "Gender") + 
+  scale_color_viridis(discrete = TRUE) +
+  geom_point(alpha = .7) +
+  geom_line() +
+  geom_text(aes(x = 2019.5, label = gender), hjust = 0) + 
+  coord_cartesian(clip = 'off') + 
+  theme(legend.position = "none") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(size = 10)) +
+  scale_y_reverse() +
+  labs(title = "Bands",x = "Year", y = "Average Weekly Position") +
+  transition_reveal(year) + 
+  ease_aes('linear')
+a = animate(band_gender, duration = 20, fps = 10)
+
+solo_gender =
+  solos %>%
+  arrange(week_id) %>% 
+  mutate(year = substring(week_id, 1, 4)) %>% 
+  mutate(na.locf.default(year)) %>% 
+  na.omit() %>% 
+  mutate(year = as.numeric(year)) %>% 
+  select(year, gender, week_position) %>%
+  group_by(year, gender) %>% 
+  mutate(mean_rank = mean(week_position)) %>% 
+  select(-week_position) %>% 
+  distinct() %>% 
+  ggplot(aes(x = year, y = mean_rank, color = gender)) +
+  labs(color = "Gender") +
+  scale_color_viridis(discrete = TRUE) +
+  geom_point(alpha = .7) +
+  geom_line() +
+  geom_text(aes(x = 2019.5, label = gender), hjust = 0) + 
+  coord_cartesian(clip = 'off') + 
+  theme(legend.position = "none") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(size = 10)) +
+  scale_y_reverse() +
+  labs(title = "Solos", x = "Year", y = "Average Weekly Position") +
+  transition_reveal(year) + 
+  ease_aes('linear')
+b = animate(solo_gender, duration = 20, fps = 10)
+
+a_mgif <- image_read(a)
+b_mgif <- image_read(b)
+
+new_gif <- image_append(c(a_mgif[1], b_mgif[1]))
+for (i in 2:100) {
+  combined <- image_append(c(a_mgif[i], b_mgif[i]))
+  new_gif <- c(new_gif, combined)
+}
+
+new_gif
+```
+
