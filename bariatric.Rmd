@@ -8,4 +8,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-![](bariatric.pdf)
+\begin{center} <br>
+\includegraphics[width=8in]{bariatric.pdf} <br>
+\end{center}
