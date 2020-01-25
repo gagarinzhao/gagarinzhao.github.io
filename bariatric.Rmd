@@ -7,7 +7,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Analyzed using SAS
 
 \begin{center} <br>
-\includegraphics[width=8in]{bariatric.pdf} <br>
+\includegraphics[width=20in]{bariatric.pdf} <br>
 \end{center}
