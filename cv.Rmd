@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - MPH, Department of Sociomedical Sciences (2020)
 - Certificate in Applied Biostatistics
-- Propective Thesis Topic: <i>Multivariable Regression Analysis of Stigma in People Living with HIV</i>
+- Thesis Topic: <i>Trends in Prevalence of Barriers to Care Amongst People Living with HIV in New York City</i>
 - Student leader in:
   - Students for a National Health Program ([SNaHP](http://student.pnhp.org/about/))
   - Women 4 Women
@@ -33,20 +33,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Select Projects
 
+<b>Trans Medicaid Project</b>
+
+Cristina Rodriguez-Hart, Gagarin Zhao, Beverly Obeng, Asa Radix, Zil Goldstein
+
+<i>Improving data on Medicaid data and producing analysis on health outcomes of trans PLWH in New York City</i>
+
+<i>Currently in analysis and manuscript stage</i>
+
 <b>[Solo or Together? A Billboard Hot 100 Analysis of whether bands or solo careers are more successful](https://gagarinzhao.github.io/billboard_band_breakups/)</b>
 
 Meeraj Kothari, Madeline Cannon, Crystal Li, Gagarin Zhao, 
 Nihan Gencerliler
 
 <i>Completion date: December 2019</i>
-
-<b> Project Sanguine </b>
-
-Alex Orak and Rakesh Gurrala of Tulane Medical School/Tulane School of Business, Gagarin Zhao
-
-<i>Developing a mobile blood-pressure monitoring device that uses optics</i>
-
-<i>As a part of the Tulane Novel Tech Challenge 2019</i>
 
 <hr></hr>
 
@@ -72,7 +72,7 @@ Alex Orak and Rakesh Gurrala of Tulane Medical School/Tulane School of Business,
 
 ### Languages
 - English, Mandarin
-- SAS, R, SPSS
+- SAS, R, SPSS, SQL, Mplus
 
 <hr></hr>
 
