@@ -9,6 +9,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Analyzed using SAS
 
-\begin{center} <br>
-\includegraphics[width=20in]{bariatric.pdf} <br>
-\end{center}
+<img src="bariatric.pdf" alt="some text"  width="4200" height="4200">
