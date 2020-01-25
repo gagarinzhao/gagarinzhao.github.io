@@ -9,4 +9,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Analyzed using SAS
 
-![](bariatric.pdf){width=95%}
+![](bariatric.pdf){width=100% height=250}
