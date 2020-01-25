@@ -10,7 +10,9 @@ navbar:
         - text: "Instacart Analysis"
           href: instacart_analysis.html
         - text: "Billboard Hot 100 Analysis"
-          href: billboard.html
+          href: https://gagarinzhao.github.io/billboard_band_breakups/final_report.html
+        - text: "Bariatric Surgery"
+          href: bariatric.html
     - icon: fa-envelope fa-lg
       href: mailto:<gz2281@cumc.columbia.edu>
     - icon: fa-github fa-lg
