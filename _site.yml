@@ -14,7 +14,7 @@ navbar:
         - text: "Bariatric Surgery"
           href: bariatric.html
     - icon: fa-envelope fa-lg
-      href: mailto:<gz2281@cumc.columbia.edu>
+      href: mailto:<gagarinzhao@gmail.com>
     - icon: fa-github fa-lg
       href: http://github.com/gagarinzhao/
     - icon: fa-linkedin fa-lg

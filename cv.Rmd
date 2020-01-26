@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - Student leader in:
   - Students for a National Health Program ([SNaHP](http://student.pnhp.org/about/))
   - [Women 4 Women](https://www.instagram.com/w4w_columbia/)
-- Examples of coursework: Data Science I, Analysis of Categorical Data, Applied Regression I, Applied Regression II, Relational Databases & SQL Programming, Latent Variables & Structural Equations Modeling, Pharmaceutical Statistics, Statistical Programming in SAS, Dissemination and Implementation Science
+- Examples of coursework: Data Science I, Analysis of Categorical Data, Applied Regression I, Applied Regression II, Relational Databases & SQL Programming, Latent Variables & Structural Equations Modeling, Pharmaceutical Statistics, Statistical Programming in SAS, Dissemination & Implementation Science
 
 <b>New York University</b>
 
@@ -37,7 +37,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Cristina Rodriguez-Hart, Gagarin Zhao, Beverly Obeng, Asa Radix, Zil Goldstein
 
-<i>Improving data on Medicaid data and producing analysis on health outcomes of trans PLWH in New York City</i>
+Improving data on Medicaid data and producing analysis on health outcomes of trans PLWH in New York City
 
 <i>Currently in analysis and manuscript stage</i>
 
@@ -91,4 +91,4 @@ Nihan Gencerliler
 
 <hr></hr>
 
-View a PDF version of my CV [here](Gaga_CV_oct19_github.pdf).
+View a PDF version of my CV [here](Gaga_CV_oct19_github.pdf) (Last updated: October 2019).
