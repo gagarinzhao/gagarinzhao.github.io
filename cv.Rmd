@@ -20,8 +20,8 @@ knitr::opts_chunk$set(echo = TRUE)
 - Thesis Topic: <i>Trends in Prevalence of Barriers to Care Amongst People Living with HIV in New York City</i>
 - Student leader in:
   - Students for a National Health Program ([SNaHP](http://student.pnhp.org/about/))
-  - Women 4 Women
-- Relevant coursework: Data Science I, Analysis of Categorical Data, Applied Regression I
+  - [Women 4 Women](https://www.instagram.com/w4w_columbia/)
+- Examples of coursework: Data Science I, Analysis of Categorical Data, Applied Regression I, Applied Regression II, Relational Databases & SQL Programming, Latent Variables & Structural Equations Modeling, Pharmaceutical Statistics, Statistical Programming in SAS, Dissemination and Implementation Science
 
 <b>New York University</b>
 
