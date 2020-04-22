@@ -65,7 +65,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <b>[Improving Data on the HIV Epidemic by Identifying Transgender Persons in Medicaid In New York City, 2013-2017](CROI 2020 Poster 2 10 20.pdf)</b>, 27th Annual Conference on Retroviruses and Opportunistic Infections (CROI), March 2019
 
-<i>Cristina Rodriguez-Hart, Gagarin Zhao, Zil Goldstein, Asa Radix, Lucia Torian</i>
+<i>Cristina Rodriguez-Hart, Beverly Obeng, Zil Goldstein, Asa Radix, Gagarin Zhao, Lucia Torian</i>
 
 <b>[Place of Residence and Location of Services](https://nyhivprod.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf)</b>, September 2019
 
