@@ -15,13 +15,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Education
 <b>Columbia University Mailman School of Public Health</b>
 
-- MPH, Department of Sociomedical Sciences (2020)
-- Certificate in Applied Biostatistics
-- Thesis Topic: <i>Trends in Prevalence of Barriers to Care Amongst People Living with HIV in New York City</i>
+- MPH, Department of Sociomedical Sciences, Advanced Certificate in Applied Biostatistics (2020)
+- Masters thesis: "Perceived Barriers to Medical Care Amongst People Living with HIV in New York City: Changes from 2002 to 2017"
 - Student leader in:
   - Students for a National Health Program ([SNaHP](http://student.pnhp.org/about/))
   - [Women 4 Women](https://www.instagram.com/w4w_columbia/)
 - Examples of coursework: Data Science I, Analysis of Categorical Data, Applied Regression I, Applied Regression II, Relational Databases & SQL Programming, Latent Variables & Structural Equations Modeling, Pharmaceutical Statistics, Statistical Programming in SAS, Dissemination & Implementation Science
+- [Certified in Public Health (CPH)](https://www.nbphe.org/)
 
 <b>New York University</b>
 
@@ -31,29 +31,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <hr></hr>
 
-### Select Projects
-
-<b>Trans Medicaid Project</b>
-
-Cristina Rodriguez-Hart, Gagarin Zhao, Beverly Obeng, Asa Radix, Zil Goldstein
-
-Improving data on Medicaid data and producing analysis on health outcomes of trans PLWH in New York City
-
-<i>Currently in analysis and manuscript stage</i>
-
-<b>[Solo or Together? A Billboard Hot 100 Analysis of whether bands or solo careers are more successful](https://gagarinzhao.github.io/billboard_band_breakups/)</b>
-
-Meeraj Kothari, Madeline Cannon, Crystal Li, Gagarin Zhao, 
-Nihan Gencerliler
-
-<i>Completion date: December 2019</i>
-
-<hr></hr>
 
 ### Professional Experience
-<b>New York City Department of Health and Mental Hygiene (June 2019 - December 2019)</b>
+<b>New York City Department of Health and Mental Hygiene, Bureau of HIV (June 2019 - December 2019)</b>
 
-<i>College Aide, Intern Data Analyst</i>
+<i>College Aide, [HRTP](https://www1.nyc.gov/site/doh/about/employment/hrtp-internship.page) Data Analyst</i>
 
 - Utilizing SAS statistical software to analyze claims data from Medicaid and HIV data reported to the NYC DOHMH
 - Assisting in conceptualizing an analysis on HIV viral suppression comparing transgender people who receive gender-affirming healthcare to non-transgender populations living with HIV
@@ -72,12 +54,42 @@ Nihan Gencerliler
 
 ### Languages
 - English, Mandarin
-- SAS, R, SPSS, SQL, Mplus
+- Microsoft Access, Microsoft Excel, Mplus, MySQL, R, SAS, SPSS, Tableau
 
 <hr></hr>
 
 ### Publications
-[9/19/19 - Place of Residence and Location of Services](https://nyhivprod.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf)
+<b>Gender-affirming surgeries are associated with high and sustained levels of viral suppression over time among transgender people with HIV in New York City, 2013-2017</b>, 23rd International AIDS Conference, July 2020
+
+<i>Cristina Rodriguez-Hart, Gagarin Zhao, Zil Goldstein, Asa Radix, Lucia Torian</i>
+
+<b>[Improving Data on the HIV Epidemic by Identifying Transgender Persons in Medicaid In New York City, 2013-2017](CROI 2020 Poster 2 10 20.pdf)</b>, 27th Annual Conference on Retroviruses and Opportunistic Infections (CROI), March 2019
+
+<i>Cristina Rodriguez-Hart, Gagarin Zhao, Zil Goldstein, Asa Radix, Lucia Torian</i>
+
+<b>[Place of Residence and Location of Services](https://nyhivprod.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf)</b>, September 2019
+
+<i>Maiko Yomogida, Gagarin Zhao, Angela Aidala</i>
+
+
+<hr></hr>
+
+### Select Projects
+
+<b>Trans Medicaid Project</b>
+
+<i>Cristina Rodriguez-Hart, Gagarin Zhao, Beverly Obeng, Asa Radix, Zil Goldstein</i>
+
+- Improving data on Medicaid data and producing analysis on health outcomes of trans PLWH in New York City
+
+- <i>Currently in analysis and manuscript stage</i>
+
+<b>[Solo or Together? A Billboard Hot 100 Analysis of whether bands or solo careers are more successful](https://gagarinzhao.github.io/billboard_band_breakups/)</b>
+
+<i>Meeraj Kothari, Madeline Cannon, Crystal Li, Gagarin Zhao, 
+Nihan Gencerliler</i>
+
+- <i>Completion date: December 2019</i>
 
 <hr></hr>
 
@@ -91,4 +103,4 @@ Nihan Gencerliler
 
 <hr></hr>
 
-View a PDF version of my CV [here](Gaga_CV_oct19_github.pdf) (Last updated: October 2019).
+View a PDF version of my CV [here](Gaga_CV_apr20.pdf) (Last updated: April 2020).

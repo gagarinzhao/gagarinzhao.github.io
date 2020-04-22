@@ -13,6 +13,8 @@ navbar:
           href: https://gagarinzhao.github.io/billboard_band_breakups/final_report.html
         - text: "Bariatric Surgery"
           href: bariatric.html
+        - text: "CROI 2020"
+          href: croi.html
     - icon: fa-envelope fa-lg
       href: mailto:<gagarinzhao@gmail.com>
     - icon: fa-github fa-lg

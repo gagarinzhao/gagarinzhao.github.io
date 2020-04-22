@@ -1,0 +1,12 @@
+---
+title: "CROI"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Analyzed using SAS, as a part of my work at New York City Department of Health and Mental Hygiene, Bureau of HIV
+
+![](CROI 2020 Poster 2 10 20.pdf){width=100% height=700}
