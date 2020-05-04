@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <b>Columbia University Mailman School of Public Health</b>
 
 - MPH, Department of Sociomedical Sciences, Advanced Certificate in Applied Biostatistics (2020)
-- Masters thesis: "Perceived Barriers to Medical Care Amongst People Living with HIV in New York City: Changes from 2002 to 2017"
+- Master's thesis: "Predictors of Barriers to Medical Care Among People Living with HIV in New York City: Changes from 2002 to 2017"
 - Student leader in:
   - Students for a National Health Program ([SNaHP](http://student.pnhp.org/about/))
   - [Women 4 Women](https://www.instagram.com/w4w_columbia/)
@@ -42,7 +42,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - Conducting a literature review on types of stigma that have been identified as priority areas, including HIV-related stigma, homophobia, transphobia, sexism, and racism
 
 
-<b>[CHAIN](https://nyhivstg.wpengine.com/tdb_templates/chain-reports-template-12/), Columbia University Mailman School of Public Health (January 2019 - August 2019, January 2020 - Present)</b>
+<b>[CHAIN](https://nyhivstg.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf), Columbia University Mailman School of Public Health (January 2019 - August 2019, January 2020 - Present)</b>
 
 <i>Graduate Research Assistant</i>
 
