@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <b>Columbia University Mailman School of Public Health</b>
 
 - MPH, Department of Sociomedical Sciences, Advanced Certificate in Applied Biostatistics (2020)
-- Master's thesis: "Predictors of Barriers to Medical Care Among People Living with HIV in New York City: Changes from 2002 to 2017"
+- Master's thesis: [Predictors of Barriers to Medical Care Among People Living with HIV in New York City: Changes from 2002 to 2017](Gagarin_zhao_thesis_approved 05-04-2020.pdf)
 - Student leader in:
   - Students for a National Health Program ([SNaHP](http://student.pnhp.org/about/))
   - [Women 4 Women](https://www.instagram.com/w4w_columbia/)
