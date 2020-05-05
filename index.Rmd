@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <center>
 
 <div style="display: flex; justify-content: center;">
-<img src="headshot.JPG" width="200" style="border:8px solid white">
+<img src="headshot.JPG" width="200" style="border:8px solid white" alt="gz_headshot">
 
 </div>
 

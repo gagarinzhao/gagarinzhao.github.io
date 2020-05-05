@@ -58,7 +58,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <hr></hr>
 
-### Publications
+### Publications and Conferences
 <b>Gender-affirming surgeries are associated with high and sustained levels of viral suppression over time among transgender people with HIV in New York City, 2013-2017</b>, 23rd International AIDS Conference, July 2020
 
 <i>Cristina Rodriguez-Hart, Gagarin Zhao, Zil Goldstein, Asa Radix, Lucia Torian</i>
