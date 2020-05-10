@@ -21,5 +21,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <body>
 I am a Vancouverite named after the [first man in space](https://en.wikipedia.org/wiki/Yuri_Gagarin). I received my BA from NYU in Psychology with Minors in Anthropology and Child & Adolescent Mental Health Studies ([CAMS](https://med.nyu.edu/departments-institutes/child-adolescent-psychiatry/education/child-adolescent-mental-health-studies-minor-undergraduates)). I am interested in social determinants of health and data!
-As of May 4th 2020, I have finished my master's thesis: [Predictors of Barriers to Medical Care Among People Living with HIV in New York City: Changes from 2002 to 2017](https://academiccommons.columbia.edu/doi/10.7916/d8-6zd4-mz42?fbclid=IwAR1si9hJa9dSi_cXzlH0Tpi1uXmgkCtPjUPUkFSvQ5B2lsRb1KC33siAdLM).
+As of May 4th 2020, I have finished my master's thesis: [Predictors of Barriers to Medical Care Among People Living with HIV in New York City: Changes from 2002 to 2017](gz_thesis_approved.pdf).
 </body>
