@@ -42,7 +42,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - Conducting a literature review on types of stigma that have been identified as priority areas, including HIV-related stigma, homophobia, transphobia, sexism, and racism
 
 
-<b>[CHAIN](https://nyhivstg.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf), Columbia University Mailman School of Public Health (January 2019 - August 2019, January 2020 - Present)</b>
+<b>[CHAIN](https://nyhivstg.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf), Columbia University Mailman School of Public Health (January 2019 - August 2019, January 2020 - May 2020)</b>
 
 <i>Graduate Research Assistant</i>
 
