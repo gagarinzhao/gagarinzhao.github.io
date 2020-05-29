@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-##### MPH Graduate, Columbia Mailman School of Public Health
+##### Gagarin Zhao, MPH, Columbia Mailman School of Public Health
 ##### Department of Sociomedical Sciences, Certificate in Applied Biostatistics
 <hr></hr>
 
