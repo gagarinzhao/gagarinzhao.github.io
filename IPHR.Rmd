@@ -9,6 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 A Dissemination and Implementation Plan
 
-![](D-I-poster.pdf){width=100% height=700}]
+![](D-I-poster.pdf){width=100% height=700}
 
-![](gz_iphr_paper.pdf){width=100% height=1400}
+![](gz_iphr_paper.pdf){width=100% height=1000}
