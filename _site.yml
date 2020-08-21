@@ -7,6 +7,8 @@ navbar:
       href: cv.html
     - text: "Projects"
       menu:
+        - text: "NYPD Misconducts Dashboard"
+          href: NYPD.html
         - text: "Instacart Analysis"
           href: instacart_analysis.html
         - text: "Billboard Hot 100"
