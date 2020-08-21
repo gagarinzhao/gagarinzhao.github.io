@@ -6,6 +6,9 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+![](dashcover.png)
+
 On August 20th 2020, 323,911 accusations of N.Y.P.D. misconduct were released online. I've done my best here to make sense of it in a visual way for more people to understand and interact with the massive amount of data.
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZTRlNDk4NTUtZjAxZi00MjdhLWExMWQtMzhjYjNkMTViNjFlIiwidCI6ImUzM2UzZGFmLThkMGQtNDJjYy1hZTgxLTg4NjA2YmZiMGI5NyJ9" frameborder="0" allowFullScreen="true"></iframe>
