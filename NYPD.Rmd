@@ -6,8 +6,13 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<center>
 
-![](dashcover.png)
+<div style="display: flex; justify-content: center;">
+<img src="dashcover.png" width="200" style="border:8px solid white" alt="gz_headshot">
+
+</div>
+
 
 On August 20th 2020, 323,911 accusations of N.Y.P.D. misconduct were released online. I've done my best here to make sense of it in a visual way for more people to understand and interact with the massive amount of data.
 
