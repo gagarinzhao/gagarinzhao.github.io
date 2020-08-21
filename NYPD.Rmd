@@ -18,4 +18,4 @@ On August 20th 2020, 323,911 accusations of N.Y.P.D. misconduct were released on
 
 <iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNWQ2YTY2NmQtYjZiNi00YmFhLWIyNGYtMGVlOGU0OWZkMzM0IiwidCI6ImUzM2UzZGFmLThkMGQtNDJjYy1hZTgxLTg4NjA2YmZiMGI5NyJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 
-Note: Some of the rows contained no information about the complaint apart from the officer's name, and were therefore not reflected in the total number.
+<i> Note: Some of the rows contained no information about the complaint apart from the officer's name, and were therefore not reflected in the total number. This dashboard is best viewed on desktop. </i>
