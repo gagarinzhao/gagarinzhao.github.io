@@ -16,6 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 On August 20th 2020, 323,911 accusations of N.Y.P.D. misconduct were released online. I've done my best here to make sense of it in a visual way for more people to understand and interact with the massive amount of data.
 
-<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNWQ2YTY2NmQtYjZiNi00YmFhLWIyNGYtMGVlOGU0OWZkMzM0IiwidCI6ImUzM2UzZGFmLThkMGQtNDJjYy1hZTgxLTg4NjA2YmZiMGI5NyJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNWQ2YTY2NmQtYjZiNi00YmFhLWIyNGYtMGVlOGU0OWZkMzM0IiwidCI6ImUzM2UzZGFmLThkMGQtNDJjYy1hZTgxLTg4NjA2YmZiMGI5NyJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 
-Some of the reports contained information about the complaint and were therefore not included within the data apart from the officer's name.
+Note: Some of the rows contained no information about the complaint apart from the officer's name, and were therefore not reflected in the total number.
