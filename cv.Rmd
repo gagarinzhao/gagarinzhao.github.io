@@ -11,6 +11,34 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+### Professional Experience
+
+<b>Louisiana Primary Care Association (July 2020 - Present)</b>
+
+<i>Health Information Technology Data Analyst</i>
+
+- I manage and develop methods for health data collection, analysis, visualizations, and reporting. I support and train community health centers to maximize their efficiency and optimize patient outcomes.
+
+- LPCA represents 39 federally funded Community Health Center organizations across Louisiana. These organizations operate over 285 individual sites and serve over 444,000 patients a year.
+
+
+
+<b>New York City Department of Health and Mental Hygiene, Bureau of HIV (June 2019 - December 2019)</b>
+
+<i>College Aide, [HRTP](https://www1.nyc.gov/site/doh/about/employment/hrtp-internship.page) Data Analyst</i>
+
+- As a part of the HRTP internship program, I assisted the Bureau of HIV with analyzing Medicaid claims data and HIV surveillance data on transgender individuals and people living with HIV (PLWH). I programmed in SAS statistical software to analyze claims data from Medicaid and HIV data reported to the NYC health department. Additionally, I conceptualized an analysis on HIV viral suppression comparing transgender people who receive gender-affirming health care to non-transgender populations living with HIV.
+
+<b>[CHAIN](https://nyhivstg.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf), Columbia University Mailman School of Public Health (January 2019 - August 2019, January 2020 - May 2020)</b>
+
+<i>Graduate Research Assistant</i>
+
+- I performed quantitative data analysis and interpretation in the ongoing cohort study Community Health Advisory Information Network (C.H.A.I.N.), which aims to improve the health of persons living with HIV/AIDS in New York City and the Tri-County region in collaboration with NYC DOHMH. I also wrote reports and presentations that respond to the questions, interests, and priorities of the HIV Planning Council, advising policy and funding decisions, as supported by grants from the Ryan White HIV Treatment Extension Act.
+
+<hr></hr>
+
+
+
 <hr></hr>
 ### Education
 <b>Columbia University Mailman School of Public Health</b>
@@ -32,29 +60,9 @@ knitr::opts_chunk$set(echo = TRUE)
 <hr></hr>
 
 
-### Professional Experience
-<b>New York City Department of Health and Mental Hygiene, Bureau of HIV (June 2019 - December 2019)</b>
-
-<i>College Aide, [HRTP](https://www1.nyc.gov/site/doh/about/employment/hrtp-internship.page) Data Analyst</i>
-
-- Utilizing SAS statistical software to analyze claims data from Medicaid and HIV data reported to the NYC DOHMH
-- Assisting in conceptualizing an analysis on HIV viral suppression comparing transgender people who receive gender-affirming healthcare to non-transgender populations living with HIV
-- Conducting a literature review on types of stigma that have been identified as priority areas, including HIV-related stigma, homophobia, transphobia, sexism, and racism
-
-
-<b>[CHAIN](https://nyhivstg.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf), Columbia University Mailman School of Public Health (January 2019 - August 2019, January 2020 - May 2020)</b>
-
-<i>Graduate Research Assistant</i>
-
-- Performing quantitative data analysis and interpretation in an ongoing cohort study of persons living with HIV/AIDS in New York City and the Tri-County region, in collaboration with NYC DOHMH 
--	Writing reports and presentations that respond to the questions, interests, and priorities of the HIV Planning Council, advising policy and funding decisions, as supported by grants from the Ryan White HIV Treatment Extension Act 
-- Processing systematic survey data from the perspective of persons living with HIV about their needs for health and human services, their encounters with the full continuum of HIV services, and their physical, mental and social wellbeing 
-
-<hr></hr>
-
 ### Languages
-- English, Mandarin
-- Microsoft Access, Microsoft Excel, Mplus, MySQL, R, SAS, SPSS, Tableau
+- English, Mandarin Chinese
+- Microsoft Access, Microsoft Excel, Microsoft PowerBI, Mplus, MySQL, R, SAS, SPSS, Tableau
 
 <hr></hr>
 
