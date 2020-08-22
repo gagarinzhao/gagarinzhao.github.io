@@ -1,13 +1,11 @@
 ---
-title: "Gagarin Zhao"
+title: "Gagarin Zhao, MPH"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-##### Gagarin Zhao, MPH
 
 <hr></hr>
 
