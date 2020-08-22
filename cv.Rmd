@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Professional Experience
 
-<b>Louisiana Primary Care Association (July 2020 - Present)</b>
+<b>Louisiana Primary Care Association ([LPCA](https://www.lpca.net)) (July 2020 - Present)</b>
 
 <i>Health Information Technology Data Analyst</i>
 
@@ -37,9 +37,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <hr></hr>
 
-
-
-<hr></hr>
 ### Education
 <b>Columbia University Mailman School of Public Health</b>
 
