@@ -68,7 +68,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <i>Cristina Rodriguez-Hart, Gagarin Zhao, Zil Goldstein, Asa Radix, Lucia Torian</i>
 
-<b>[Improving Data on the HIV Epidemic by Identifying Transgender Persons in Medicaid In New York City, 2013-2017](CROI 2020 Poster 2 10 20.pdf)</b>, 27th Annual Conference on Retroviruses and Opportunistic Infections (CROI), March 2019
+<b>[Improving Data on the HIV Epidemic by Identifying Transgender Persons in Medicaid In New York City, 2013-2017](https://www.croiconference.org/abstract/improving-data-on-the-nyc-hiv-epidemic-by-identifying-transgender-people-on-medicaid/)</b>, 27th Annual Conference on Retroviruses and Opportunistic Infections (CROI), March 2019
 
 <i>Cristina Rodriguez-Hart, Beverly Obeng, Zil Goldstein, Asa Radix, Gagarin Zhao, Lucia Torian</i>
 
