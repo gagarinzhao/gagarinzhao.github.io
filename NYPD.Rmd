@@ -18,9 +18,7 @@ On August 20th 2020, 323,911 accusations of N.Y.P.D. misconduct were released on
 
 <i>You may make two or more selections in filters by holding down cmd/ctrl.</i>
 
-<iframe width="1024" height="612"
-
-src="https://app.powerbi.com/view?r=eyJrIjoiY2JkYmU1ZGYtZjQ3ZS00ZGM2LWFiNGUtMmUxYjlhNzU2OGZmIiwidCI6ImUzM2UzZGFmLThkMGQtNDJjYy1hZTgxLTg4NjA2YmZiMGI5NyJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNjliMzAyMDAtMWYwNy00NmIxLWJkZjMtMzQ2ZGU3M2E4NGE3IiwidCI6ImUzM2UzZGFmLThkMGQtNDJjYy1hZTgxLTg4NjA2YmZiMGI5NyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 </center>
 <left>
