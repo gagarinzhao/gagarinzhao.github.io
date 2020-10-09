@@ -29,10 +29,10 @@ navbar:
       href: mailto:<gagarinzhao@protonmail.com>
 output:
   html_document:
-    theme: lumen
+    theme: paper
+    css: styles.css
     include:
       after_body: footer.html
-    css: bootstrap.min.css
     lib_dir: site_libs
     self_contained: no
     
