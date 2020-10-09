@@ -26,7 +26,7 @@ navbar:
     - icon: fa-book fa-lg
       href: http://goodreads.com/gagazola
     - icon: fa-envelope fa-lg
-      href: mailto:<gagarinzhao@gmail.com>
+      href: mailto:<gagarinzhao@protonmail.com>
 output:
   html_document:
     theme: lumen

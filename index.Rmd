@@ -31,7 +31,7 @@ I was previously a data analyst at the New York City Department of Health and Me
 I earned my Bachelor of Arts in Psychology at New York University and received my Masters of Public Health in sociomedical sciences at Columbia University in the City of New York. In completing my advanced certificate in applied biostatistics, I developed skills in statistics, programming, and data visualization. I am proficient in SAS, R, and SQL. 
 
 
-As of May 4th 2020, I have finished my master's thesis: [Predictors of Barriers to Medical Care Among People Living with HIV in New York City: Changes from 2002 to 2017](gz_thesis_approved.pdf).
+As of May 4th 2020, I have finished my master's thesis: [Predictors of Barriers to Medical Care Among People Living with HIV in New York City: Changes from 2002 to 2017](https://academiccommons.columbia.edu/doi/10.7916/d8-6zd4-mz42).
 
 In my free time, I love to read, watch HBO shows, play music, and spend time outside with my dog, [Laika](https://instagram.com/laikacosmonaut).
 
