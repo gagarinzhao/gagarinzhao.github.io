@@ -10,7 +10,7 @@ navbar:
         - text: "NYPD Misconducts Dashboard"
           href: NYPD.html
         - text: "Billboard Hot 100"
-          href: https://gagarinzhao.github.io/billboard_band_breakups/final_report.html{target="_blank"}
+          href: https://gagarinzhao.github.io/billboard_band_breakups/final_report.html
         - text: "Bariatric Surgery"
           href: bariatric.html
         - text: "CROI 2020"
