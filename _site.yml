@@ -5,12 +5,10 @@ navbar:
   right:
     - text: "CV"
       href: cv.html
-    - text: "Projects"
+    - text: "Independent Projects"
       menu:
         - text: "NYPD Misconducts Dashboard"
           href: NYPD.html
-        - text: "Instacart Analysis"
-          href: instacart_analysis.html
         - text: "Billboard Hot 100"
           href: https://gagarinzhao.github.io/billboard_band_breakups/final_report.html
         - text: "Bariatric Surgery"
@@ -28,7 +26,7 @@ navbar:
     - icon: fa-twitter fa-lg
       href: http://twitter.com/saygagarin
     - icon: fa-book fa-lg
-      href: http:goodreads.com/gagazola
+      href: http://goodreads.com/gagazola
 output:
   html_document:
     theme: lumen
