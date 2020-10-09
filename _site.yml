@@ -7,7 +7,7 @@ navbar:
       href: cv.html
     - text: "Independent Projects"
       menu:
-        - text: "NYPD Misconducts Dashboard"
+        - text: "NYPD Misconduct Dashboard"
           href: NYPD.html
         - text: "Billboard Hot 100"
           href: https://gagarinzhao.github.io/billboard_band_breakups/final_report.html
