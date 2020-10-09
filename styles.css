@@ -26,7 +26,11 @@ img {
   margin: auto;
 }
 
-a {
+a:link {
+  color: #59b49d;
+}
+
+a:visited {
   color: #59b49d;
 }
 

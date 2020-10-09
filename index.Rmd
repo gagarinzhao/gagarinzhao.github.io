@@ -22,13 +22,13 @@ knitr::opts_chunk$set(echo = TRUE)
 </center>
 
 <left>
-Hi, I'm Gaga! I am a Vancouverite, ex-New Yorker, now based in New Orleans. I am named after the [first man in space](https://en.wikipedia.org/wiki/Yuri_Gagarin){target="_blank"}, and interested in social determinants of health and data science.
+Hi, I'm Gagarin! I am a Vancouverite, ex-New Yorker, now based in New Orleans. I am named after the [first man in space](https://en.wikipedia.org/wiki/Yuri_Gagarin){target="_blank"}, and interested in social determinants of health and data science.
 
 As a Health Information Technology (HIT) Data Analyst at Louisiana Primary Care Association, I am responsible for data management, analysis, reporting, and training. I support FQHCs in their goals to improve clinical outcomes, understand patient populations, and optimize performance.
 
 I was previously a data analyst at the New York City Department of Health and Mental Hygiene, focused on transgender health and HIV surveillance. I was also a research assistant for the Community Health Advisory Information Network at Columbia University, gathering data regarding social determinants of health for people living with HIV in an effort to improve clinical and non-clinical outcomes.
 
-I earned my Bachelor of Arts in Psychology at New York University and received my Masters of Public Health in sociomedical sciences at Columbia University in the City of New York. In completing my advanced certificate in applied biostatistics, I developed skills in statistics, programming, and data visualization. I am proficient in SAS, R, and SQL. 
+I earned my Bachelor of Arts in Psychology at New York University and received my Masters of Public Health in sociomedical sciences at Columbia University in the City of New York. In completing my advanced certificate in applied biostatistics, I developed skills in statistics, programming, and data visualization. I am proficient in SAS, R, and SQL.
 
 
 As of May 4th 2020, I have finished my master's thesis: [Predictors of Barriers to Medical Care Among People Living with HIV in New York City: Changes from 2002 to 2017](https://academiccommons.columbia.edu/doi/10.7916/d8-6zd4-mz42){target="_blank"}.
