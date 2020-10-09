@@ -32,7 +32,7 @@ output:
     theme: lumen
     include:
       after_body: footer.html
-    css: styles.css
+    css: bootstrap.min.css
     lib_dir: site_libs
     self_contained: no
     
