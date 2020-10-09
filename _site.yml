@@ -18,13 +18,13 @@ navbar:
         - text: "IPHR Adaptation Plan"
           href: IPHR.html
     - icon: fa-github fa-lg
-      href: http://github.com/gagarinzhao/{target="_blank"}
+      href: http://github.com/gagarinzhao/
     - icon: fa-linkedin fa-lg
-      href: http://linkedin.com/in/gagarinzhao{target="_blank"}
+      href: http://linkedin.com/in/gagarinzhao
     - icon: fa-twitter fa-lg
-      href: http://twitter.com/saygagarin{target="_blank"}
+      href: http://twitter.com/saygagarin
     - icon: fa-book fa-lg
-      href: http://goodreads.com/gagazola{target="_blank"}
+      href: http://goodreads.com/gagazola
     - icon: fa-envelope fa-lg
       href: mailto:<gagarinzhao@protonmail.com>
 output:
