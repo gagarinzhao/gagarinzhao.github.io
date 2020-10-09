@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Professional Experience
 
-<b>Louisiana Primary Care Association ([LPCA](https://www.lpca.net)) (July 2020 - Present)</b>
+<b>Louisiana Primary Care Association ([LPCA](https://www.lpca.net){target="_blank"}) (July 2020 - Present)</b>
 
 <i>Health Information Technology Data Analyst</i>
 
@@ -31,11 +31,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <b>New York City Department of Health and Mental Hygiene, Bureau of HIV (June 2019 - December 2019)</b>
 
-<i>College Aide, [HRTP](https://www1.nyc.gov/site/doh/about/employment/hrtp-internship.page) Data Analyst</i>
+<i>College Aide, [HRTP](https://www1.nyc.gov/site/doh/about/employment/hrtp-internship.page){target="_blank"} Data Analyst</i>
 
 - As a part of the HRTP internship program, I assisted the Bureau of HIV with analyzing Medicaid claims data and HIV surveillance data on transgender individuals and people living with HIV (PLWH). I programmed in SAS statistical software to analyze claims data from Medicaid and HIV data reported to the NYC health department. Additionally, I conceptualized an analysis on HIV viral suppression comparing transgender people who receive gender-affirming health care to non-transgender populations living with HIV.
 
-<b>[CHAIN](https://nyhivstg.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf), Columbia University Mailman School of Public Health (January 2019 - August 2019, January 2020 - May 2020)</b>
+<b>[CHAIN](https://nyhivstg.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf){target="_blank"}, Columbia University Mailman School of Public Health (January 2019 - August 2019, January 2020 - May 2020)</b>
 
 <i>Graduate Research Assistant</i>
 
@@ -47,12 +47,12 @@ knitr::opts_chunk$set(echo = TRUE)
 <b>Columbia University Mailman School of Public Health</b>
 
 - MPH, Department of Sociomedical Sciences, Advanced Certificate in Applied Biostatistics (2020)
-- Master's thesis: [Predictors of Barriers to Medical Care Among People Living with HIV in New York City: Changes from 2002 to 2017](https://academiccommons.columbia.edu/doi/10.7916/d8-6zd4-mz42)
+- Master's thesis: [Predictors of Barriers to Medical Care Among People Living with HIV in New York City: Changes from 2002 to 2017](https://academiccommons.columbia.edu/doi/10.7916/d8-6zd4-mz42){target="_blank"}
 - Student leader in:
-  - Students for a National Health Program ([SNaHP](http://student.pnhp.org/about/))
-  - [Women 4 Women](https://www.instagram.com/w4w_columbia/)
+  - Students for a National Health Program ([SNaHP](http://student.pnhp.org/about/){target="_blank"})
+  - [Women 4 Women](https://www.instagram.com/w4w_columbia/){target="_blank"}
 - Examples of coursework: Data Science I, Analysis of Categorical Data, Applied Regression I, Applied Regression II, Relational Databases & SQL Programming, Latent Variables & Structural Equations Modeling, Pharmaceutical Statistics, Statistical Programming in SAS, Dissemination & Implementation Science
-- [Certified in Public Health (CPH)](https://www.nbphe.org/)
+- [Certified in Public Health (CPH)](https://www.nbphe.org/){target="_blank"}
 
 <b>New York University</b>
 
@@ -74,11 +74,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <i>Cristina Rodriguez-Hart, Gagarin Zhao, Zil Goldstein, Asa Radix, Lucia Torian</i>
 
-<b>[Improving Data on the HIV Epidemic by Identifying Transgender Persons in Medicaid In New York City, 2013-2017](https://www.croiconference.org/abstract/improving-data-on-the-nyc-hiv-epidemic-by-identifying-transgender-people-on-medicaid/)</b>, 27th Annual Conference on Retroviruses and Opportunistic Infections (CROI), March 2019
+<b>[Improving Data on the HIV Epidemic by Identifying Transgender Persons in Medicaid In New York City, 2013-2017](https://www.croiconference.org/abstract/improving-data-on-the-nyc-hiv-epidemic-by-identifying-transgender-people-on-medicaid/){target="_blank"}</b>, 27th Annual Conference on Retroviruses and Opportunistic Infections (CROI), March 2019
 
 <i>Cristina Rodriguez-Hart, Beverly Obeng, Zil Goldstein, Asa Radix, Gagarin Zhao, Lucia Torian</i>
 
-<b>[Place of Residence and Location of Services](https://nyhivprod.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf)</b>, September 2019
+<b>[Place of Residence and Location of Services](https://nyhivprod.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf){target="_blank"}</b>, September 2019
 
 <i>Maiko Yomogida, Gagarin Zhao, Angela Aidala</i>
 
@@ -95,7 +95,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - <i>Currently in analysis manuscript stage</i>
 
-<b>[Solo or Together? A Billboard Hot 100 Analysis of whether bands or solo careers are more successful](https://gagarinzhao.github.io/billboard_band_breakups/)</b>
+<b>[Solo or Together? A Billboard Hot 100 Analysis of whether bands or solo careers are more successful](https://gagarinzhao.github.io/billboard_band_breakups/){target="_blank"}</b>
 
 <i>Meeraj Kothari, Madeline Cannon, Crystal Li, Gagarin Zhao, 
 Nihan Gencerliler</i>
@@ -105,4 +105,4 @@ Nihan Gencerliler</i>
 
 <hr></hr>
 
-View a PDF version of my CV [here](gz_resume_oct20.pdf) (Last updated: October 2020).
+View a PDF version of my CV [here](gz_resume_oct20.pdf){target="_blank"} (Last updated: October 2020).

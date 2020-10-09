@@ -10,7 +10,7 @@ navbar:
         - text: "NYPD Misconducts Dashboard"
           href: NYPD.html
         - text: "Billboard Hot 100"
-          href: https://gagarinzhao.github.io/billboard_band_breakups/final_report.html
+          href: https://gagarinzhao.github.io/billboard_band_breakups/final_report.html{target="_blank"}
         - text: "Bariatric Surgery"
           href: bariatric.html
         - text: "CROI 2020"
@@ -18,13 +18,13 @@ navbar:
         - text: "IPHR Adaptation Plan"
           href: IPHR.html
     - icon: fa-github fa-lg
-      href: http://github.com/gagarinzhao/
+      href: http://github.com/gagarinzhao/{target="_blank"}
     - icon: fa-linkedin fa-lg
-      href: http://linkedin.com/in/gagarinzhao
+      href: http://linkedin.com/in/gagarinzhao{target="_blank"}
     - icon: fa-twitter fa-lg
-      href: http://twitter.com/saygagarin
+      href: http://twitter.com/saygagarin{target="_blank"}
     - icon: fa-book fa-lg
-      href: http://goodreads.com/gagazola
+      href: http://goodreads.com/gagazola{target="_blank"}
     - icon: fa-envelope fa-lg
       href: mailto:<gagarinzhao@protonmail.com>
 output:
