@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <b>Louisiana Primary Care Association ([LPCA](https://www.lpca.net){target="_blank"}) (July 2020 - Present)</b>
 
-<i>Health Information Technology (HIT) Data Analyst</i>
+<i>Health Information Technology Data Analyst</i>
 
 - I manage and develop methods for health data collection, analysis, visualizations, and reporting. I support and train community health centers to maximize their efficiency and optimize patient outcomes.
 

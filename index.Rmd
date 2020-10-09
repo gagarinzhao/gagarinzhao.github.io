@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 </center>
 
 <left>
-Hi, I'm Gagarin! I am a Vancouverite, ex-New Yorker, now based in New Orleans. I am named after the [first man in space](https://en.wikipedia.org/wiki/Yuri_Gagarin){target="_blank"}, and interested in social determinants of health and data science.
+Hi, I'm Gaga! I am a Vancouverite, ex-New Yorker, now based in New Orleans. I am named after the [first man in space](https://en.wikipedia.org/wiki/Yuri_Gagarin){target="_blank"}, and interested in social determinants of health and data science.
 
 As a Health Information Technology (HIT) Data Analyst at Louisiana Primary Care Association, I am responsible for data management, analysis, reporting, and training. I support FQHCs in their goals to improve clinical outcomes, understand patient populations, and optimize performance.
 
