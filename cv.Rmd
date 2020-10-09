@@ -90,7 +90,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <i>Cristina Rodriguez-Hart, Gagarin Zhao, Beverly Obeng, Asa Radix, Zil Goldstein</i>
 
-- Improving data on Medicaid data and producing analysis on health outcomes of trans PLWH in New York City
+- Improving data on Medicaid data and producing analysis on health outcomes of transgender PLWH in New York City
 
 - <i>Currently in analysis manuscript stage</i>
 
