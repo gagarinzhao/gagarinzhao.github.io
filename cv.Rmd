@@ -35,7 +35,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - As a part of the HRTP internship program, I assisted the Bureau of HIV with analyzing Medicaid claims data and HIV surveillance data on transgender individuals and people living with HIV (PLWH). I programmed in SAS statistical software to analyze claims data from Medicaid and HIV data reported to the NYC health department. Additionally, I conceptualized an analysis on HIV viral suppression comparing transgender people who receive gender-affirming health care to non-transgender populations living with HIV.
 
-<b>[CHAIN](https://nyhivstg.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf){target="_blank"}, Columbia University Mailman School of Public Health (January 2019 - August 2019, January 2020 - May 2020)</b>
+<b>[CHAIN](https://nyhiv.org/tdb_templates/chain-reports-template-12/){target="_blank"}, Columbia University Mailman School of Public Health (January 2019 - August 2019, January 2020 - May 2020)</b>
 
 <i>Graduate Research Assistant</i>
 
