@@ -26,11 +26,15 @@ img {
   margin: auto;
 }
 a {
-  color: #7cc4b2;
+  color: #59b49d;
 }
 
 a:hover {
   color: #3c8572;
+}
+a:active
+{
+  color: #46c7a6;
 }
 
 a:visited {
