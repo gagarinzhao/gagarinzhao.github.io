@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "Resumé"
 author: "Gagarin Zhao"
 output:
   html_document:
@@ -103,4 +103,4 @@ Nihan Gencerliler</i>
 
 <hr></hr>
 
-View a PDF version of my CV [here](gz_resume_oct20.pdf){target="_blank"} (Last updated: October 2020).
+View a PDF version of my resumé [here](gz_resume_oct20.pdf){target="_blank"} (Last updated: October 2020).

@@ -3,8 +3,8 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "CV"
-      href: cv.html
+    - text: "Resumé"
+      href: resume.html
     - text: "Independent Projects"
       menu:
         - text: "NYPD Misconduct Dashboard"
