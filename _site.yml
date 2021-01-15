@@ -24,7 +24,7 @@ navbar:
     - icon: fa-twitter fa-lg
       href: http://twitter.com/saygagarin
     - icon: fa-book fa-lg
-      href: http://goodreads.com/gagazola
+      href: http://goodreads.com/saygagarin
     - icon: fa-envelope fa-lg
       href: mailto:<gagarinzhao@protonmail.com>
 output:
