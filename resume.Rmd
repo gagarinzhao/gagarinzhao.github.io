@@ -18,13 +18,13 @@ knitr::opts_chunk$set(echo = TRUE)
 }
 </style>
 
-### Professional Experience
+### Experience
 
 <b>Louisiana Primary Care Association ([LPCA](https://www.lpca.net){target="_blank"}) (July 2020 - Present)</b>
 
 <i>Health Information Technology Data Analyst</i>
 
-- I manage and develop methods for health data collection, analysis, visualizations, and reporting. I support and train community health centers to maximize their efficiency and optimize patient outcomes.
+- I manage and develop methods for health data collection, data management, statistical analysis, visualizations, and reporting. I support and train community health centers to maximize their efficiency and optimize patient outcomes.
 
 - LPCA represents 39 federally funded Community Health Center organizations across Louisiana. These organizations operate over 285 individual sites and serve over 444,000 patients a year.
 
@@ -63,14 +63,14 @@ knitr::opts_chunk$set(echo = TRUE)
 <hr></hr>
 
 
-### Languages
+### Languages & Softwares
 - English, Mandarin Chinese
-- Microsoft Access, Microsoft Excel, Microsoft PowerBI, Mplus, MySQL, R, SAS, SPSS, Tableau
+- Microsoft Access, Microsoft Excel, Microsoft PowerBI, Mplus, MySQL, <b>R</b>, <b>SAS</b>, SPSS, Tableau
 
 <hr></hr>
 
-### Publications and Conferences
-<b>Gender-affirming surgeries are associated with high and sustained levels of viral suppression over time among transgender people with HIV in New York City, 2013-2017</b>, 23rd International AIDS Conference, July 2020
+### Publications & Conferences
+<b>Gender-affirming surgeries are associated with high and sustained levels of viral suppression over time among transgender people with HIV in New York City, 2013-2017</b>, Annual Conference on Retroviruses and Opportunistic Infections (CROI), March 2021
 
 <i>Cristina Rodriguez-Hart, Gagarin Zhao, Zil Goldstein, Asa Radix, Lucia Torian</i>
 
@@ -81,25 +81,6 @@ knitr::opts_chunk$set(echo = TRUE)
 <b>[Place of Residence and Location of Services](https://nyhivprod.wpengine.com/nyhiv-archive/pdfs/chain/CHAIN%20Briefing%202018-1%20Location%20of%20Services.pdf){target="_blank"}</b>, September 2019
 
 <i>Maiko Yomogida, Gagarin Zhao, Angela Aidala</i>
-
-<hr></hr>
-
-### Select Projects
-
-<b>Trans Medicaid Project</b>
-
-<i>Cristina Rodriguez-Hart, Gagarin Zhao, Beverly Obeng, Asa Radix, Zil Goldstein</i>
-
-- Improving data on Medicaid data and producing analysis on health outcomes of transgender PLWH in New York City
-
-- <i>Currently in analysis manuscript stage</i>
-
-<b>[Solo or Together? A Billboard Hot 100 Analysis of whether bands or solo careers are more successful](https://gagarinzhao.github.io/billboard_band_breakups/){target="_blank"}</b>
-
-<i>Meeraj Kothari, Madeline Cannon, Crystal Li, Gagarin Zhao, 
-Nihan Gencerliler</i>
-
-- <i>Completion date: December 2019</i>
 
 <hr></hr>
 

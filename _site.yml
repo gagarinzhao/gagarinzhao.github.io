@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "Resumé"
       href: resume.html
-    - text: "Independent Projects"
+    - text: "Selected Projects"
       menu:
         - text: "NYPD Misconduct Dashboard"
           href: NYPD.html

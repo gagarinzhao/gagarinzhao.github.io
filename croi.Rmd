@@ -7,6 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Analyzed using SAS, as a part of my work at New York City Department of Health and Mental Hygiene, Bureau of HIV
+Analyzed using SAS, completed as a part of my work at New York City Department of Health and Mental Hygiene, Bureau of HIV.
 
 ![](CROI 2020 Poster 2 10 20.pdf){width=100% height=700}

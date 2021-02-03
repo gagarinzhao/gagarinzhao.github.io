@@ -18,7 +18,7 @@ library(plotly)
 library(flexdashboard)
 ```
 
-Here I analyze the publicly available data for Instacart.
+An analysis of publicly available data for Instacart, completed as a part of my MPH curriculum at Columbia University.
 
 Column {data-width=450}
 -----------------------------------------------------------------------
