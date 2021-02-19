@@ -26,7 +26,7 @@ navbar:
     - icon: fa-book fa-lg
       href: http://goodreads.com/saygagarin
     - icon: fa-envelope fa-lg
-      href: mailto:<gagarinzhao@protonmail.com>
+      href: contact.html
 output:
   html_document:
     theme: paper

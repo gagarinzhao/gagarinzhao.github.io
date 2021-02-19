@@ -1,0 +1,24 @@
+---
+title: "Contact"
+output: html_document
+---
+
+If you want to reach out to me please complete this form and I'll get back to you ASAP!
+
+<form role="form">
+<div class="form-group">
+<input name="name" id="name" placeholder="Name" class="form-control" type="text">
+</div>
+<div class="form-group">
+<input name="email" id="email" placeholder="Email" class="form-control" type="email">
+</div>
+<div class="form-group">
+<input name="subject" id="subject" placeholder="Subject" class="form-control" type="text">
+</div>
+<div class="form-group">
+<textarea name="message" id="message" placeholder="Message" class="form-control" rows="3" cols="20"></textarea>
+</div>
+<div class="form-group">
+<input value="Send" class="form-control" type="submit">
+</div>
+</form>
