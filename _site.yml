@@ -21,10 +21,6 @@ navbar:
       href: http://github.com/gagarinzhao/
     - icon: fa-linkedin fa-lg
       href: http://linkedin.com/in/gagarinzhao
-    - icon: fa-twitter fa-lg
-      href: http://twitter.com/saygagarin
-    - icon: fa-book fa-lg
-      href: http://goodreads.com/saygagarin
     - icon: fa-envelope fa-lg
       href: contactform.html
 output:

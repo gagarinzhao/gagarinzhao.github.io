@@ -9,20 +9,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <hr></hr>
 
-<center>
-
-<div style="display: flex; justify-content: center;">
-<img src="me2.JPG" width="300" style="border:8px solid white" alt="gz_headshot">
-
-</div>
-
-
 <body>
 
 </center>
 
 <left>
-Hi, I'm Gaga! I'm a public health data analyst based in New Orleans, Louisiana. Raised in Vancouver, Canada, I spent seven formative years in New York City before making the big move down south in 2020. I am named after the [first man in space](https://en.wikipedia.org/wiki/Yuri_Gagarin){target="_blank"}, and especially interested in social determinants of health and data science.
+Hi, I'm Gagarin! I'm a public health data analyst based in New Orleans, Louisiana. Raised in Vancouver, Canada, I spent seven formative years in New York City before making the big move down south in 2020. I am named after the [first man in space](https://en.wikipedia.org/wiki/Yuri_Gagarin){target="_blank"}, and especially interested in social determinants of health and data science.
 
 As a data analyst in the HIT division at Louisiana Primary Care Association, I am responsible for data management, statistical analysis, data reporting, and technical training. I support FQHCs in their goals to improve clinical outcomes, understand patient populations, and optimize performance.
 
